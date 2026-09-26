@@ -1009,9 +1009,7 @@ creating folders, deleting folders, and so on.
 
 126. Amazon S3 - Storage Classes
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/45375491#content> 
 
-Transcript
 Okay, so let's discuss
 different storage classes we have for Amazon S three.
 The first one is Amazon S three Standard-General Purpose.
@@ -2398,8 +2396,7 @@ So that's it for this lecture on AWS Artifacts.
 
 138. AWS Artifact - Hands On
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/45375629#content> 
-Transcript
+
 So here I am in the artifact console
 and I just wanna show you briefly what it does.
 So we can click on agreements,
@@ -2490,8 +2487,7 @@ that can be ready for audits.
 
 140. AWS Trusted Advisor
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/45375629#content> 
-Transcript
+
 So now, let's talk about AWS Trusted Advisor.
 So you don't need to install anything.
 It's a service that gives you a high level
@@ -2573,8 +2569,7 @@ and therefore answer your exam questions on it.
 
 141. VPC & Network Security
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/45375629#content> 
-Transcript
+
 Now let's talk about VPC
 and network security.
 So VPC is a concept that you should know
@@ -2733,8 +2728,7 @@ you will rock any question about VPC at the exam.
 
 142. AWS Security Services - Summary
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/45375629#content> 
-Transcript
+
 So now, lets have a summary of all
 the security services
 that we've seen so far in this course.
@@ -2820,8 +2814,7 @@ to Amazon Bedrock private within your VPC.
 
 143. Scenarios for Security
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/45375629#content> 
-Transcript
+
 So here are a few security scenarios
 that can come up in the exam.
 For example, Amazon Bedrock must access
