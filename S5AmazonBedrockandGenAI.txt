@@ -2666,8 +2666,6 @@ this should make sense to you.
 
 41. Amazon Nova
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/45796637#content> 
-
 Transcript
 So, now let's talk about Amazon Nova.
 So it's a family of AI Foundation Models, FMs, built by AWS.
