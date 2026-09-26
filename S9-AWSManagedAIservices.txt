@@ -157,8 +157,6 @@ So that's it for this lecture, I hope you liked it,
 
 75. Amazon Comprehend - Hands On
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/45796429#content> 
-Transcript
 So let's have a look at Amazon Comprehend.
 So it's a natural language processing tool
 to look at some text and process it.
@@ -604,9 +602,7 @@ Okay, that's it, I hope you liked Amazon Polly,
 
 82. Amazon Rekognition
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/45796429#content> 
 
-Transcript
 So now, let's talk about Amazon Rekognition.
 So, it's a service that allows you to find objects, people,
 texts, or scenes directly in images or videos,
@@ -752,8 +748,6 @@ to implement safety in your applications.
 
 83. Amazon Rekognition - Hands On
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/45796429#content> 
-Transcript
 So let's have a look at the capabilities
 of Amazon recognition.
 The first one is around label detection.
@@ -1300,8 +1294,7 @@ at a time.
 
 90. Amazon Mechanical Turk
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/45796429#content> 
-Transcript
+
 So now let's talk about Amazon Mechanical Turk.
 So this is the original Mechanical Turk
 in the 1770 year.
@@ -1784,9 +1777,7 @@ and AWS Inferentia and that's it, you'll be good to go.
 
 97. Amazon's Hardware for AI - Hands On
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/45796429#content> 
 
-Transcript
 Okay, so let's have a look at Amazon EC2
 to see the instance types that could be good
 for machine learning purposes.
