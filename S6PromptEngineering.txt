@@ -116,8 +116,6 @@ to see what you can and cannot get out of this technique.
 
 44. Prompt Engineering - Hands On
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/54471251#content> 
-
 Transcript
 Okay, so let's practice
 how to do good prompting.
@@ -202,8 +200,6 @@ how to properly build a prompt for it.
 
 45. Prompt Performance Optimization
 
-From <https://jpmc.udemy.com/course/aws-ai-practitioner-certified/learn/lecture/54471251#content> 
-Transcript
 So now let's talk about
 how we can improve the performance of our prompts
 in our model.
